@@ -19,8 +19,13 @@ GUI
 - ID/PW: guest
 ```
 
-### 
-http://localhost:15672/#/
+###  etc
+- .gitignore not working
+```
+- git rm -r --cached . 
+```
+- Learn Gradle
+  - [Should you include or ignore gradle-wrapper.properties](http://stackoverflow.com/questions/21762180/should-you-include-or-ignore-gradle-wrapper-properties)
 
 ### Link
 * [Messaging with RabbitMQ](https://spring.io/guides/gs/messaging-rabbitmq/)
