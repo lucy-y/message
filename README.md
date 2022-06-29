@@ -1,5 +1,4 @@
 # springboot-messaging-rabbitmq
-수정중
 
 ### Environment
 - springboot
@@ -26,6 +25,7 @@ GUI
 ```
 - Learn Gradle
   - [Should you include or ignore gradle-wrapper.properties](http://stackoverflow.com/questions/21762180/should-you-include-or-ignore-gradle-wrapper-properties)
+
 
 ### Link
 * [Messaging with RabbitMQ](https://spring.io/guides/gs/messaging-rabbitmq/)
