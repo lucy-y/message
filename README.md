@@ -21,7 +21,7 @@ GUI
 ###  etc
 - .gitignore not working
 ```
-- git rm -r --cached . 
+git rm -r --cached . 
 ```
 - Learn Gradle
   - [Should you include or ignore gradle-wrapper.properties](http://stackoverflow.com/questions/21762180/should-you-include-or-ignore-gradle-wrapper-properties)
